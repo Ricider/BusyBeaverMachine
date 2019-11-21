@@ -1,4 +1,4 @@
-package BusyBeaver;
+package BusyBeaverMachine;
 
 public enum State {
 	HALT{

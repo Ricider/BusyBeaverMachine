@@ -1,4 +1,4 @@
-package BusyBeaver;
+package BusyBeaverMachine;
 
 import javax.swing.*;
 import java.awt.*;
